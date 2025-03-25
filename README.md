@@ -9,7 +9,7 @@ I am passionate about coding and always eager to explore and learn new technolog
 - **Databases:** MongoDB , SQL 
 - **Programming Languages:** Python, C++  
 
-## 📚 Coding Profil 
+## 📚 Coding Profile
 - **LeetCode:** https://leetcode.com/u/urvichawla/
 
 ## 🔗 Connect with Me  
