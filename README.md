@@ -7,7 +7,7 @@ I am passionate about coding and always eager to explore and learn new technolog
 - **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS  
 - **Backend:** Node.js, Express  
 - **Databases:** MongoDB , SQL 
-- **Programming Languages:** Python, C++  
+- **Programming Languages:** Python, C++, Go
 
 ## 📚 Coding Profile
 - **LeetCode:** https://leetcode.com/u/urvichawla/
