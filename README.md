@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Urvi Chawla!  
+#  Hi, I'm Urvi Chawla!  
 
-## 🚀 About Me  
+##  About Me  
 I am passionate about coding and always eager to explore and learn new technologies.
 
 ## 💻 Technologies & Frameworks  
