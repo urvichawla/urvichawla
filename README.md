@@ -1,33 +1,13 @@
-<p align="center">
-  <img src="https://readmes.pages.dev/text/say/Hi%2C%20I'm%20Urvi%20Chawla/typing/gradient/size-44" alt="Hi, I'm Urvi Chawla" />
-</p>
+<img src="https://readmes.pages.dev/text/say/urvi%20chawla/typing/mono/size-32/speed-70" alt="urvi chawla" />
 
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=urvichawla&show_icons=true&hide_rank=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+Full-stack developer working on web apps, backend services and LLM-powered features. Mostly React and Node.js, Go for services, Redis and MongoDB for data, deployed on AWS.
 
-- 🔭 Full-stack developer building web apps, backend services and LLM-powered features
-- 🌱 Working with React, Node.js, Go, Redis and AWS
-- 👯 Open to collaborating on full-stack and AI projects
-- 💬 Ask me about React, Node.js, Go, MongoDB, Elasticsearch or LLM integration
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/urvi-chawla-b9b1b8252/) · [LeetCode](https://leetcode.com/u/urvichawla/)
+<a href="https://www.linkedin.com/in/urvi-chawla-b9b1b8252/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square" alt="LinkedIn" /></a> <a href="https://leetcode.com/u/urvichawla/"><img src="https://img.shields.io/badge/LeetCode-161b22?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=urvichawla&color=blueviolet" />
-
-<br clear="right"/>
-
-<img src="https://readmes.pages.dev/text/say/Languages/wave/gradient/size-26" alt="Languages" />
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,go,mysql&theme=dark" />
-</p>
-
-<img src="https://readmes.pages.dev/text/say/Frameworks%20%26%20Data/wave/gradient/size-26" alt="Frameworks & Data" />
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,redis,elasticsearch,aws&theme=dark" />
-</p>
-
-<img src="https://readmes.pages.dev/text/say/Tools/wave/gradient/size-26" alt="Tools" />
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
-</p>
+<table>
+  <tr><td><b>Languages</b></td><td><img src="https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /> </td></tr>
+  <tr><td><b>Frameworks</b></td><td><img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> </td></tr>
+  <tr><td><b>Data &amp; Cloud</b></td><td><img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Elasticsearch-161b22?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" /> <img src="https://img.shields.io/badge/AWS%20EC2-161b22?style=flat-square" alt="AWS EC2" /> </td></tr>
+  <tr><td><b>AI</b></td><td><img src="https://img.shields.io/badge/Generative%20AI-161b22?style=flat-square" alt="Generative AI" /> <img src="https://img.shields.io/badge/LLM%20Integration-161b22?style=flat-square" alt="LLM Integration" /> </td></tr>
+  <tr><td><b>Tools</b></td><td><img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-161b22?style=flat-square" alt="VS Code" /> <img src="https://img.shields.io/badge/IntelliJ-161b22?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ" /> <img src="https://img.shields.io/badge/JIRA-161b22?style=flat-square&logo=jira&logoColor=white" alt="JIRA" /> </td></tr>
+</table>
